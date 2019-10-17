@@ -24,6 +24,8 @@ One suggestion: Use maps instead place of `switch`-statements. Less boilerplate 
 
 ### Are design patterns used?
 
+Nice method chaining with the Vector class.
+
 Yes, some.
 
 ## Is the code documented?
@@ -66,3 +68,5 @@ The model is not completely separated form the rest, but it is separated from th
 Everything can always be improved. Especially a work in progress.
 
 # Document Review
+
+In your system architecture uml, you have included dependencies the packages have with themselves. This removes focus from whats important in the graph, the relationships between the packages.
