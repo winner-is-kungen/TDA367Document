@@ -2,6 +2,8 @@
 
 ## Do the design and implementation follow design principles?
 
+Yes, to some extent.
+
 ### Does the project use a consistent coding style?
 
 Very consistent. All field and variable names are in camelCase, and all class/interface/enum names are in PascalCase. All classes follow the pattern of `static fields`, `instance fields`, `constructor`, `static methods`, and `instance methods`.
