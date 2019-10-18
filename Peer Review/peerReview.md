@@ -70,3 +70,9 @@ Everything can always be improved. Especially a work in progress.
 # Document Review
 
 In your system architecture uml, you have included dependencies the packages have with themselves. This removes focus from whats important in the graph, the relationships between the packages.
+
+Include your user stories in the RAD document, not just a link to where to find them. If you feel that the user stories take up too much space you can some, or event most, in the appendix.
+
+All sections should contain text, some of yours only contain subsections and some are empty.
+
+Some spelling and grammatical mistakes, for example: some "it's" where it should have been "its".
